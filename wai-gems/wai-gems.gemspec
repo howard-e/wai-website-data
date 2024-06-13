@@ -7,7 +7,6 @@ Gem::Specification.new do |spec|
   spec.email         = ["steve@opendirective.com"]
 
   spec.summary       = "Gem for dependencies of WAI theme gems."
-  spec.add_dependency "rouge"
   spec.add_dependency "jekyll-github-metadata"
   spec.add_dependency "jekyll-relative-links"
   spec.add_dependency "jekyll-seo-tag"
